@@ -1,0 +1,43 @@
+table.tile {
+    font-size: 12px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.fit-width {
+    max-width: 100%;
+    table-layout: fixed;
+}
+
+table .field {
+    width: 100%;
+}
+
+td {
+    min-width: 65px;   
+    margin: 5px 3px;   
+}
+
+.first-column {
+    width: 15%;
+}
+
+td {
+    width: calc(85% / (100% - 15%));
+}
+
+table .field {
+    margin: 0;
+    padding: 0;
+}
+
+table .button {
+    width: 45px;
+    height: 30px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+
+
