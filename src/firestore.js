@@ -8,12 +8,12 @@ import updatedTelegramArr from './messages';
 
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyCTpfbfb8ETeNHrsO28AAM2ybRG0wZwY14",
-  authDomain: "telegram-trades-pi.firebaseapp.com",
-  projectId: "telegram-trades-pi",
-  storageBucket: "telegram-trades-pi.appspot.com",
-  messagingSenderId: "834823812409",
-  appId: "1:834823812409:web:6167c468e2f06f52c3e4e8"
+  apiKey: "...",
+  authDomain: "...",
+  projectId: "...",
+  storageBucket: "...",
+  messagingSenderId: "...",
+  appId: "..."
 };
 
 // Initialize Firebase
